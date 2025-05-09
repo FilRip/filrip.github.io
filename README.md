@@ -29,6 +29,10 @@ You can open command prompt or powershell too in any tabs. Same for a registry e
 
 Launch explorip with "useowncopier" in command line argument to intercept copy/paste with an icon in notification zone (like SuperCopier/UltraCopier/TeraCopy/...)
 
+Sample of Explorip explorer with two tabs :
+
+<img src="ExplorerDemo.png">
+
 
 
 Taskbar
