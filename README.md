@@ -12,11 +12,11 @@ Look at Settings in Wiki : https://github.com/FilRip/Explorip/wiki/Settings for 
 ------------
 Example with a classic Windows 11
 
-<img src="Win11Taskbar.png>
+<img src="Win11Taskbar.png">
 
 And an example with Explorip (and a custom toolbar called QuickLaunch in Win10)
 
-<img src="Win11Explorip.png>
+<img src="Win11Explorip.png">
 
 
 Explorer
