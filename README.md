@@ -1,6 +1,6 @@
 <big><big><big>Explorip</big></big></big>
 
-Download it from : https://github.com/FilRip/Explorip/releases/latest
+Download it from : <a href="https://github.com/FilRip/Explorip/releases/latest">https://github.com/FilRip/Explorip/releases/latest</a>
 ---------------------------------------------------------------------
 
 Windows Shell/Explorer Replacement. All languages supported.
