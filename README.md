@@ -1,3 +1,8 @@
+<big><big><big>Explorip</big></big></big>
+
+Download it from : https://github.com/FilRip/Explorip/releases/latest
+---------------------------------------------------------------------
+
 Windows Shell/Explorer Replacement. All languages supported.
 
 100% in C# (and PInvoke) and User mode (no administrator privilege required) and fully customizable
