@@ -19,6 +19,7 @@ And an example with Explorip (and a custom toolbar called QuickLaunch in Win10)
 <img src="Win11Explorip.png">
 
 
+
 Explorer
 --------
 Launch Explorip without command line arguments (or a path to a folder) to use the new file explorer
@@ -27,11 +28,15 @@ You can manage explorer with tabs, and 2 explorer in same screen to more easily 
 
 You can open command prompt or powershell too in any tabs. Same for a registry editor, and to embed any other window in a tab of Explorip (except window of UWP application, like calc.exe)
 
-Launch explorip with "useowncopier" in command line argument to intercept copy/paste with an icon in notification zone (like SuperCopier/UltraCopier/TeraCopy/...)
-
 Sample of Explorip explorer with two tabs :
 
 <img src="ExplorerDemo.png">
+
+
+
+Cut/Copy/Paste files/folders interceptor/replacer
+-------------------------------------------------
+Launch explorip with "useowncopier" in command line argument to intercept copy/paste with an icon in notification zone (like SuperCopier/UltraCopier/TeraCopy/...)
 
 
 
