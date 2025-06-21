@@ -1,5 +1,3 @@
-<big><big><big><a href="https://github.com/FilRip/Explorip/">Explorip</a></big></big></big>
-
 Download it from : <a href="https://github.com/FilRip/Explorip/releases/latest">https://github.com/FilRip/Explorip/releases/latest</a>
 ---------------------------------------------------------------------
 
